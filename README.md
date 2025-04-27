@@ -39,7 +39,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thehav0k&show_icons=true&theme=radical" alt="Asif's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thehav0k&show_icons=true&theme=radical" alt="Asif's GitHub stats" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehav0k&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
