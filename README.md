@@ -44,6 +44,11 @@
 </p>
 
 ---
+### 🗣️ Language Usage
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehav0k&layout=compact&langs_count=10&theme=radical)
+
+---
 
 ### 📫 Let's Connect!
 
