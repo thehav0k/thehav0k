@@ -1,18 +1,28 @@
 # Hi there, I'm Mohammad Asif Khan (Sifat)! 👋
 
-A curious mind on a journey to blend **technology**, **creativity**, and **philosophy**.  
-Currently crafting my skills in **Python**, **C**, and **Competitive Programming**, while daydreaming about physics, time, and the universe.
-
----
 
 ### ⚡ About Me
-- 🚀 CSE student(1-2) at Jahangirnagar University | Former Pharmacy student(**Dropout**) at University of Dhaka
-- 🧠 Love problem-solving, coding challenges and algorithms
+- 🚀 CSE student (1-2) at Jahangirnagar University | Former Pharmacy student (**Dropout**) at University of Dhaka
+- 🧠 Love problem-solving, coding challenges, and algorithms
 - 📚 Passionate about **Physics**, **Mathematics**, **Programming**, and a bit of **Philosophy**
-- ✍️ Loves writing blogs on research, life, and tech (coming soon!)
+- ✍️ Loves writing blogs on **research**, **life**, and **tech** (coming soon!)
 - 🐾 Cat lover | Bird admirer | Loves nature photography
 - 🎮 Enjoys playing **eFootball**
 - ✨ Favorite Superhero: **The Flash**
+
+---
+
+### 🛠️ Currently
+- 📖 Planning to learn **Data Structures**, **Object-Oriented Programming (OOP)**, and enhance my **critical problem-solving abilities**
+- 💻 Working on **competitive programming** challenges and algorithms to strengthen my coding skills
+- ✍️ Preparing to write blogs about **research**, **life**, and **technology** (coming soon!)
+
+---
+
+### 🌟 Dream
+- ✨ **Dreaming to live until my dreams come true.**
+- 🎯 Focusing on becoming a **software engineer** and **problem-solver**
+
 ---
 
 ### 🛠️ Tech Stack
@@ -43,6 +53,6 @@ Currently crafting my skills in **Python**, **C**, and **Competitive Programming
 
 ---
 
-*"Keep learning, keep building, and never stop chasing time."*
+*"No matter how fast you run,you can't escape reality!"*
 
 ---
