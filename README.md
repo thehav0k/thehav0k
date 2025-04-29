@@ -1,6 +1,5 @@
 # Hi there, I'm Mohammad Asif Khan (Sifat)! 👋
 
-
 ### ⚡ About Me
 - 🚀 CSE student (1-2) at Jahangirnagar University | Former Pharmacy student (**Dropout**) at University of Dhaka
 - 🧠 Love problem-solving, coding challenges, and algorithms
@@ -44,9 +43,15 @@
 </p>
 
 ---
+
 ### 🗣️ Language Usage
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehav0k&layout=compact&langs_count=10&theme=radical)
+
+---
+
+### 🛠️ Projects
+- Soon
 
 ---
 
@@ -58,6 +63,4 @@
 
 ---
 
-*"No matter how fast you run,you can't escape reality!"*
-
----
+*"No matter how fast you run, you can't escape reality!"*
