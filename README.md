@@ -59,7 +59,7 @@
 
 - GitHub: [Mohammad Asif Khan](https://github.com/thehav0k)
 - LinkedIn: (Coming soon)
-- Blog: (Coming soon)
+- Codeforces: [A.SIF.AT](https://codeforces.com/profile/A.SIF.AT)
 
 ---
 
