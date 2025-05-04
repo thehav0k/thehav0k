@@ -58,7 +58,7 @@
 ### 📫 Let's Connect!
 
 - GitHub: [Mohammad Asif Khan](https://github.com/thehav0k)
-- LinkedIn: (Coming soon)
+- LinkedIn: (TBA)
 - Codeforces: [A.SIF.AT](https://codeforces.com/profile/A.SIF.AT)
 
 ---
