@@ -72,7 +72,7 @@
 
 ### ✨ Quote
 
-> _“No matter how fast you run, you can't escape reality.”_ *
+> _“No matter how fast you run, you can't escape reality.”_ 
 
 ---
 
