@@ -4,7 +4,7 @@
 - 🚀 CSE student (1st–2nd year) at Jahangirnagar University | Former Pharmacy student (dropout) at the University of Dhaka
 - 🧠 Passionate about **problem-solving**, **algorithms**, and **coding challenges**
 - 📚 Deeply interested in **Physics**, **Mathematics**, **Programming**, and a touch of **Philosophy**
-- ✍️ Love writing blogs on **research**, **life**, and **technology** (coming soon!)
+- ✍️ Love writing blogs on **research**, **life**, and **technology**
 - 🐾 Cat lover | Bird admirer | Nature photography enthusiast
 - 🎮 Enjoys playing **eFootball**
 - ⚡ Favorite Superhero: **The Flash**
