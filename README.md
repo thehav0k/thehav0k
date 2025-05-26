@@ -17,7 +17,7 @@
 
 ### 🛠️ Currently
 - ⏸️ Taking a break from CP to focus on **OOP** & **DS**
--🧠 Slowly learning JavaScript
+- 🧠 Slowly learning JavaScript
 - ⚙️ Building microcontroller-based projects using **ESP32**, Arduino, and sensors
 - ✍️ Planning to publish technical + reflective writings
 
