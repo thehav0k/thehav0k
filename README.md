@@ -24,8 +24,8 @@
 ---
 
 ### 🌟 Vision
-- 🎯 Striving to become a *skilled software engineer, a **problem solver, and a **creative thinker*
-- ✨ Pursuing growth in *embedded systems, **AI/ML, and **core computer science*
+- 🎯 Striving to become a *skilled software engineer, a **problem solver**, and a **creative thinker**
+- ✨ Pursuing growth in *embedded systems, **AI/ML**, and **core computer science**
 
 ---
 
