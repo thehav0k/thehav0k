@@ -6,9 +6,9 @@
 
 ### ⚡ About Me
 - 🚀 CSE student (1-2) at Jahangirnagar University | Former Pharmacy student **(dropout)** at the University of Dhaka
-- 🧠 Passionate about *problem-solving, **algorithms, and **deep tech*
-- 📚 Fascinated by *Physics, **Mathematics, **Programming, and a touch of **Philosophy*
-- ✍️ I write blogs about *research, **life, and **technology*
+- 🧠 Passionate about *problem-solving*, *algorithms*, and *deep tech*
+- 📚 Fascinated by **Physics**, **Mathematics**, **Programming**, and a touch of **Philosophy**
+- ✍️ I write blogs about *research*, *life*, and *technology*
 - 🐱 Cat lover | Bird admirer | Nature and landscape photography enthusiast
 - 🎮 Enjoy playing *eFootball*
 - ⚡ Favorite Superhero: *The Flash*
@@ -24,7 +24,7 @@
 ---
 
 ### 🌟 Vision
-- 🎯 Striving to become a *skilled software engineer, a **problem solver**, and a **creative thinker**
+- 🎯 Striving to become a **skilled software engineer**, a **problem solver**, and a **creative thinker**
 - ✨ Pursuing growth in *embedded systems, **AI/ML**, and **core computer science**
 
 ---
