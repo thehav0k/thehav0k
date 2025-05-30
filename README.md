@@ -6,7 +6,7 @@
 
 ### ⚡ About Me
 - 🚀 CSE student (1-2) at Jahangirnagar University | Former Pharmacy student **(dropout)** at the University of Dhaka
-- 🧠 Passionate about *problem-solving*, *algorithms*, and *deep tech*
+- 🧠 Passionate about **problem-solving**, **algorithms**, and **deep tech**
 - 📚 Fascinated by **Physics**, **Mathematics**, **Programming**, and a touch of **Philosophy**
 - ✍️ I write blogs about *research*, *life*, and *technology*
 - 🐱 Cat lover | Bird admirer | Nature and landscape photography enthusiast
