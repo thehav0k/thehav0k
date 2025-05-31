@@ -52,7 +52,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehav0k&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehav0k&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=450&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehav0k&layout=compact&langs_count=8&theme=merko&hide_border=true&card_width=450&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9" alt="Top Languages" />
 </p>
 
 ---
