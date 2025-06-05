@@ -49,9 +49,30 @@
 
 ---
 
-### 🛠️ Projects
-- 🤖 **Smart Obstacle-Avoiding Robot** – Built using **ESP32**, ultrasonic sensors & C++
-- 🎵 **Discord Music Bot** – A Bangla-command music bot with YouTube API
+# 🛠️ Projects
+
+## 🚗 Smart Obstacle-Avoiding Robot  
+ESP32-based autonomous robot with ultrasonic sensing and smart pathfinding.  
+🔗 [GitHub](https://github.com/thehav0k/Smart-Obstacle-Avoiding-Robot)
+
+---
+
+## 🎵 Deep Music Bot  
+Discord bot in Python for music playback and AI chat using DeepSeek API.  
+🔗 [GitHub](https://github.com/thehav0k/Deep-Music-Bot)
+
+---
+
+## 📱 Blue Remote  
+Kotlin Android app to control ESP32 robot via Bluetooth with custom controls and UI.  
+🔗 [GitHub](https://github.com/thehav0k/Blue-Remote)
+
+---
+
+## 🎮 Tic Tac Toe  
+Android game in Kotlin & Jetpack Compose with AI difficulty and light/dark themes.  
+🔗 [GitHub](https://github.com/thehav0k/Tic-Tac-Toe)
+
 
 ---
 
