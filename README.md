@@ -14,12 +14,12 @@
 
 ---
 
-### 🛠️ Currently
-- ⏸️ Taking a break from CP to focus on **OOP** & **DS**  
-- 🧠 Slowly learning JavaScript  
-- ⚙️ Building microcontroller-based projects using **ESP32**, Arduino, and sensors  
-- ✍️ Planning to publish technical + reflective writings
-
+### 🛠️ Currently  
+- Taking a break from competitive programming to strengthen understanding of **Object-Oriented Programming** and **Data Structures**  
+- Exploring **Android development** using **Kotlin**
+- Developing microcontroller-based systems with **ESP32**, Arduino, and various sensors  
+- Exploring **Python libraries** for scripting, data handling, and automation
+  
 ---
 
 ### 🌟 Vision
