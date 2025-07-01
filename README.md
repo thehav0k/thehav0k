@@ -82,7 +82,7 @@ Minimal Android game with AI logic and clean UI
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thehav0k&show_icons=true&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehav0k&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehav0k&layout=compact&langs_count=10&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehav0k&layout=compact&langs_count=8&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
