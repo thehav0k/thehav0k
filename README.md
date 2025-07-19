@@ -87,10 +87,11 @@ Minimal Android game with AI logic and clean UI
 
 ---
 
-### 📫 Reach Me  
+### 🔗 Links & Contact  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/thehav0k)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces)](https://codeforces.com/profile/A.SIF.AT)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/thehav0k/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/mdasifkhansifat)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/16eRxu4qEL/)  
 📧 Email: **asifksifat@gmail.com**
