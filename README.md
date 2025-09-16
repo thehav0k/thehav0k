@@ -77,6 +77,15 @@ Bluetooth-controlled Android app for ESP-based robot control
 Minimal Android game with AI logic and clean UI  
 🔗 [GitHub](https://github.com/thehav0k/Tic-Tac-Toe)
 
+#### 🟦 TETRIS
+A classic Tetris game built in Python, featuring smooth gameplay and customizable settings.  
+- **Language:** Python  
+- **Features:**  
+  - Traditional Tetris mechanics: piece rotation, line clearing, leveling up  
+  - Score tracking and game-over detection  
+  - Colorful UI for enjoyable gameplay experience  
+- **Repository:** [GitHub](https://github.com/thehav0k/TETRIS)
+
 ---
 
 ### 📊 GitHub Stats  
