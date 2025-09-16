@@ -12,20 +12,20 @@
 - 🎓 CSE student @ Jahangirnagar University | Ex-Pharmacy student @ DU  
 - 🧠 Loves blending logic, creativity & curiosity to solve problems  
 - ⚙️ Interested in systems, scripting, automation & real-world impact  
-- 📸 Nature & landscape photography enthusiast 
-- 🎮 Football fan (Barça 💙❤️) | Gamer (eFootball) | Speedster at heart ⚡
+- 📸 Nature & landscape photography enthusiast  
+- 🎮 Football fan (Barça 💙❤️) | Gamer (eFootball) | Speedster at heart ⚡  
 
 ---
 
 ### 🚧 Currently Exploring  
 - Building microcontroller-based robots using ESP32, sensors, and Arduino  
 - Working with **Python** libraries for scripting, automation, scraping, and AI  
-- Deepening **Data Structures**, **OOP**, and **Software Design**  
+- Deepening **Algorithms** after completing **Data Structures**  
 - Dipping into **Rust**, **Tkinter**, **PyGame**, and CLI tools  
 
 ---
 
-### 🔧 Tech & Tools
+### 🔧 Tech & Tools  
 
 #### Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
@@ -41,6 +41,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) 
 ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white) 
@@ -50,7 +51,8 @@
 ![ESP32](https://img.shields.io/badge/ESP32-323232?style=flat-square&logo=espressif&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) 
+![PyGame](https://img.shields.io/badge/PyGame-000000?style=flat-square&logo=pygame&logoColor=white)
 
 #### Additional Skills  
 ![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-FFA500?style=flat-square&logo=codeforces&logoColor=white)
@@ -100,5 +102,3 @@ Minimal Android game with AI logic and clean UI
 
 ### ✨ Quote  
 > _“No matter how fast you run, you can't escape reality.”_
-
----
