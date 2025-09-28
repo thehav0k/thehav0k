@@ -9,32 +9,33 @@
 ---
 
 ### ⚡ About Me  
-- 🎓 CSE student @ Jahangirnagar University | Ex-Pharmacy student @ DU  
+- 🎓 CSE student(2-1) @ Jahangirnagar University | Ex-Pharmacy student @ DU  
 - 🧠 Loves blending logic, creativity & curiosity to solve problems  
 - ⚙️ Interested in systems, scripting, automation & real-world impact  
 - 📸 Nature & landscape photography enthusiast  
-- 🎮 Football fan (Barça 💙❤️) | Gamer (eFootball) | Speedster at heart ⚡  
+- 🎮 Culer💙❤️ | Gamer | Comic Book Yapper
 
 ---
 
 ### 🚧 Currently Exploring  
 - Building microcontroller-based robots using ESP32, sensors, and Arduino  
-- Working with **Python** libraries for scripting, automation, scraping, and AI  
-- Deepening **Algorithms** after completing **Data Structures**  
-- Dipping into **Rust**, **Tkinter**, **PyGame**, and CLI tools  
+- Working with **Python** libraries for scripting, automation, scraping, and ML 
+- Deepening **Algorithms** with *Problem Solving*
+- Exploring 2D Game Development by trying to understand internal logic
 
 ---
 
 ### 🔧 Tech & Tools  
 
 #### Languages  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cpp&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 #### Frameworks & Tools  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) 
@@ -50,6 +51,9 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) 
 ![ESP32](https://img.shields.io/badge/ESP32-323232?style=flat-square&logo=espressif&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) 
 ![PyGame](https://img.shields.io/badge/PyGame-000000?style=flat-square&logo=pygame&logoColor=white)
@@ -65,17 +69,17 @@
 ESP32-based autonomous bot that detects and avoids obstacles  
 🔗 [GitHub](https://github.com/thehav0k/Smart-Obstacle-Avoiding-Robot)
 
-#### 🎵 Deep Music Bot  
-A feature-rich Discord music bot powered by Python, FFmpeg & DeepSeek AI  
-🔗 [GitHub](https://github.com/thehav0k/Deep-Music-Bot)
+#### 🎮 Python TETRIS
+Classical game 'Tetris' built with Pygame  
+🔗 [GitHub](https://github.com/thehav0k/TETRIS)
 
 #### 📱 Blue Remote  
 Bluetooth-controlled Android app for ESP-based robot control  
 🔗 [GitHub](https://github.com/thehav0k/Blue-Remote)
 
-#### 🎮 Tic Tac Toe (Jetpack Compose)  
-Minimal Android game with AI logic and clean UI  
-🔗 [GitHub](https://github.com/thehav0k/Tic-Tac-Toe)
+#### 🎮 Ultimate Tic Tac Toe (Typescript, NextJs, Tailwind CSS, Supabase)  
+Complete web-based game with AI (Minimax Algorithm with Alpha Beta pruning) and online opponents  
+🔗 [web](https://tictactoex2.vercel.app/)
 
 ---
 
@@ -89,7 +93,7 @@ Minimal Android game with AI logic and clean UI
 
 ---
 
-### 🔗 Links & Contact  
+### 🔗 Important Links 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/thehav0k)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces)](https://codeforces.com/profile/A.SIF.AT)  
