@@ -63,25 +63,6 @@
 
 ---
 
-### 📂 Featured Projects  
-
-#### 🚗 Smart Obstacle-Avoiding Robot  
-ESP32-based autonomous bot that detects and avoids obstacles  
-🔗 [GitHub](https://github.com/thehav0k/Smart-Obstacle-Avoiding-Robot)
-
-#### 🎮 Python TETRIS
-Classical game 'Tetris' built with Pygame  
-🔗 [GitHub](https://github.com/thehav0k/TETRIS)
-
-#### 📱 Blue Remote  
-Bluetooth-controlled Android app for ESP-based robot control  
-🔗 [GitHub](https://github.com/thehav0k/Blue-Remote)
-
-#### 🎮 Ultimate Tic Tac Toe (Typescript, NextJs, Tailwind CSS, Supabase)  
-Complete web-based game with AI (Minimax Algorithm with Alpha Beta pruning) and online opponents  
-🔗 [web](https://tictactoex2.vercel.app/)
-
----
 
 ### 📊 GitHub Stats  
 
