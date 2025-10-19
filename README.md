@@ -82,7 +82,7 @@
 
 ###
 
-<h3 align="left">   My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -126,6 +126,6 @@
 ###
 
 <div align="center">
-  <h3> Quote</h3>
+  <h3>✨ Quote</h3>
   <p><em>"No matter how fast you run, you can't escape reality."</em></p>
 </div>
