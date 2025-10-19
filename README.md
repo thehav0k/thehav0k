@@ -62,7 +62,6 @@ Interested in <strong>systems, scripting, automation & real-world impact</strong
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,pygame" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" />
 </div>
 
 <h3 align="left">My Stats</h3>
