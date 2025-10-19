@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <h3 align="left">👩‍💻  About Me</h3>
+  <h3 align="left">About Me</h3>
   
   <p align="left">
     🎓 CSE student(2-1) @ <strong>Jahangirnagar University</strong> | Ex-Pharmacy student @ <strong>DU</strong><br><br>
