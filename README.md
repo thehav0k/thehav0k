@@ -1,89 +1,131 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&width=600&lines=Hi+I'm+Mohammad+Asif+Khan+(Sifat)!;CS+Undergrad+%7C+Tech+Explorer+%7C+Robotics+Enthusiast;Pythonist+%7C+Photographer+%7C+Curious+Mind" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=thehav0k&label=Profile%20Views&color=0e75b6&style=flat" alt="thehav0k" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=thehav0k.thehav0k&"  />
+</div>
 
-### ⚡ About Me  
-- 🎓 CSE student(2-1) @ Jahangirnagar University | Ex-Pharmacy student @ DU  
-- 🧠 Loves blending logic, creativity & curiosity to solve problems  
-- ⚙️ Interested in systems, scripting, automation & real-world impact  
-- 📸 Nature & landscape photography enthusiast  
-- 🎮 Culer💙❤️ | Gamer | Comic Book Yapper
+###
 
----
+<h1 align="center">Hey 👋 What's up?</h1>
 
-### 🚧 Currently Exploring  
-- Building microcontroller-based robots using ESP32, sensors, and Arduino  
-- Working with **Python** libraries for scripting, automation, scraping, and ML 
-- Deepening **Algorithms** with *Problem Solving*
-- Exploring 2D Game Development by trying to understand internal logic
+###
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&width=600&lines=Mohammad+Asif+Khan+(Sifat);CS+Undergrad+%7C+Tech+Explorer+%7C+Robotics+Enthusiast;Pythonist+%7C+Photographer+%7C+Curious+Mind" alt="Typing SVG" />
+</div>
 
-### 🔧 Tech & Tools  
+###
 
-#### Languages  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+<h2 align="left">Hi 👋! My name is Mohammad Asif Khan (Sifat) and I'm a CSE student from Bangladesh</h2>
 
-#### Frameworks & Tools  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) 
-![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white) 
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=flat-square&logoColor=white) 
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) 
-![ESP32](https://img.shields.io/badge/ESP32-323232?style=flat-square&logo=espressif&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) 
-![PyGame](https://img.shields.io/badge/PyGame-000000?style=flat-square&logo=pygame&logoColor=white)
+###
 
-#### Additional Skills  
-![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-FFA500?style=flat-square&logo=codeforces&logoColor=white)
+<div align="left">
+  <h3 align="left">👩‍💻  About Me</h3>
+  
+  <p align="left">
+    🎓 CSE student(2-1) @ <strong>Jahangirnagar University</strong> | Ex-Pharmacy student @ <strong>DU</strong><br><br>
+    🧠 Loves blending <strong>logic, creativity & curiosity</strong> to solve problems<br>
+    ⚙️ Interested in <strong>systems, scripting, automation & real-world impact</strong><br>
+    📸 <strong>Nature & landscape photography</strong> enthusiast<br>
+    🎮 <strong>Culer💙❤️</strong> | Gamer | Comic Book Yapper
+  </p>
+</div>
 
----
+###
 
+<img align="right" height="150" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"  />
 
-### 📊 GitHub Stats  
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thehav0k&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehav0k&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehav0k&layout=compact&langs_count=10&theme=radical&hide_border=true" height="150"/>
-</p>
+<h3 align="left">🛠 Language and Tools</h3>
 
----
+###
 
-### 🔗 Important Links 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,octave,rust,kotlin,html,js,java" height="60" alt="languages"  />
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/thehav0k)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat-square&logo=codeforces)](https://codeforces.com/profile/A.SIF.AT)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/thehav0k/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/mdasifkhansifat)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/16eRxu4qEL/)  
-📧 Email: **asifksifat@gmail.com**
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git,vercel,supabase,ffmpeg" height="40" alt="tools"  />
+</div>
 
-### ✨ Quote  
-> _“No matter how fast you run, you can't escape reality.”_
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="macos logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,pygame" height="30" alt="python tools"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="javafx logo"  />
+</div>
+
+###
+
+<h3 align="left">   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thehav0k&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thehav0k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=thehav0k&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=thehav0k&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thehav0k/thehav0k/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thehav0k/thehav0k/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thehav0k/thehav0k/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=445f9d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo"  />
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/thehav0k/thehav0k/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <h3> Quote</h3>
+  <p><em>"No matter how fast you run, you can't escape reality."</em></p>
+</div>
