@@ -79,7 +79,7 @@ Interested in <strong>systems, scripting, automation & real-world impact</strong
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/thehav0k/snake-generator/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/thehav0k/thehav0k/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <h3>Quote</h3>
