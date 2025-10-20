@@ -7,12 +7,24 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=445f9d&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <a href="https://github.com/thehav0k">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://codeforces.com/profile/A.SIF.AT">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=445f9d&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://leetcode.com/u/thehav0k/">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://linkedin.com/in/mdasifkhansifat">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.facebook.com/share/16eRxu4qEL/">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="mailto:asifksifat@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
 </div>
 
 <h1 align="center">Mohammad Asif Khan (Sifat)</h1>
