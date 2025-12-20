@@ -47,7 +47,7 @@ Outside this boring life, I enjoy **nature & landscape photography**, gaming, an
 
 #### 🧩 Tools & IDEs
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,arduino,octave,bash,linux,apple" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,arduino,octave,bash,linux,apple,docker" height="45"/>
 </div>
 
 #### ☁️ Platforms & Databases
