@@ -7,7 +7,7 @@
   <a href="https://github.com/thehav0k">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="30" />
   </a>
-  <a href="https://codeforces.com/profile/A.SIF.AT">
+  <a href="https://codeforces.com/profile/thehav0k">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=445f9d&logoColor=white&style=for-the-badge" height="30" />
   </a>
   <a href="https://leetcode.com/u/thehav0k/">
