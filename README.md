@@ -63,7 +63,7 @@ Outside this boring life, I enjoy **nature & landscape photography**, gaming, an
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thehav0k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="160"/>
@@ -72,6 +72,9 @@ Outside this boring life, I enjoy **nature & landscape photography**, gaming, an
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thehav0k&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+<div align="center">
+  <img src="https://github.com/thehav0k/CP-stats/blob/main/output/light_card.svg#gh-dark-mode-only" />
 </div>
 
 ---
