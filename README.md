@@ -64,11 +64,5 @@ Linux • Docker • Android Studio • Arduino • Firebase • PostgreSQL • 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thehav0k/thehav0k/output/snake.svg" />
-</p>
-
----
-
-<p align="center">
   <i>No matter how fast you run, you can't escape reality.</i>
 </p>
