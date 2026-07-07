@@ -30,7 +30,7 @@ jobs:
 
       # Step 3: Cleanly push the files inside the 'dist' folder to an isolated branch
       - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.5.0
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
           build_dir: dist
