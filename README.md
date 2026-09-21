@@ -31,7 +31,7 @@ I'm a CSE undergrad at **Jahangirnagar University** who builds across the whole 
   </tr>
 </table>
 
-🎓 CSE @ Jahangirnagar University &nbsp;·&nbsp; 📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🏁 Hackathons: **BUP CSE Fest 2026**, **IUT ICT Fest**
+🎓 CSE @ Jahangirnagar University &nbsp;·&nbsp; 📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🏁 Hackathons: **BUP CSE Fest 2026**, **ICT Fest**
 
 ---
 
@@ -39,13 +39,13 @@ I'm a CSE undergrad at **Jahangirnagar University** who builds across the whole 
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/thehav0k"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-cf-rating.json&cacheSeconds=3601" alt="Codeforces rating"/></a>
-<a href="https://codeforces.com/profile/thehav0k"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-cf-max.json&cacheSeconds=3601" alt="Codeforces max rating"/></a>
-<a href="https://codeforces.com/submissions/thehav0k"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-cf-solved.json&cacheSeconds=3601" alt="Codeforces problems solved"/></a>
+<a href="https://codeforces.com/profile/thehav0k"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-cf-rating.json&cacheSeconds=3600&_cb=2" alt="Codeforces rating"/></a>
+<a href="https://codeforces.com/profile/thehav0k"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-cf-max.json&cacheSeconds=3600&_cb=2" alt="Codeforces max rating"/></a>
+<a href="https://codeforces.com/submissions/thehav0k"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-cf-solved.json&cacheSeconds=3600&_cb=2" alt="Codeforces problems solved"/></a>
 <br/>
-<a href="https://leetcode.com/u/thehav0k/"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-leetcode-rating.json&cacheSeconds=3601" alt="LeetCode rating"/></a>
-<a href="https://leetcode.com/u/thehav0k/"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-leetcode-solved.json&cacheSeconds=3601" alt="LeetCode problems solved"/></a>
-<a href="https://www.codechef.com/users/thehav0k"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-codechef-rating.json&cacheSeconds=3601" alt="CodeChef rating"/></a>
+<a href="https://leetcode.com/u/thehav0k/"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-leetcode-rating.json&cacheSeconds=3600&_cb=2" alt="LeetCode rating"/></a>
+<a href="https://leetcode.com/u/thehav0k/"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-leetcode-solved.json&cacheSeconds=3600&_cb=2" alt="LeetCode problems solved"/></a>
+<a href="https://www.codechef.com/users/thehav0k"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-codechef-rating.json&cacheSeconds=3600&_cb=2" alt="CodeChef rating"/></a>
 
 <br/><br/>
 
@@ -355,8 +355,8 @@ Hands-on embedded work with ESP32 and Arduino: reading sensors, driving motors t
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thehav0k&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehav0k&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&hide=html,css" alt="Top languages"/>
+<img height="220" src="https://raw.githubusercontent.com/thehav0k/thehav0k/output/gh-stats.svg" alt="GitHub stats"/>
+<img height="220" src="https://raw.githubusercontent.com/thehav0k/thehav0k/output/gh-top-langs.svg" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=thehav0k&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak"/>
 
