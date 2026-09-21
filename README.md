@@ -39,8 +39,8 @@ I'm a CSE undergrad at **Jahangirnagar University** who builds across the whole 
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/thehav0k"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-cf-rating.json&cacheSeconds=3600" alt="Codeforces rating"/></a>
-<a href="https://codeforces.com/profile/thehav0k"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-cf-max.json&cacheSeconds=3600" alt="Codeforces max rating"/></a>
+<a href="https://codeforces.com/profile/thehav0k"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-cf-rating.json&cacheSeconds=3601" alt="Codeforces rating"/></a>
+<a href="https://codeforces.com/profile/thehav0k"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-cf-max.json&cacheSeconds=3601" alt="Codeforces max rating"/></a>
 <a href="https://codeforces.com/submissions/thehav0k"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-cf-solved.json&cacheSeconds=3601" alt="Codeforces problems solved"/></a>
 <br/>
 <a href="https://leetcode.com/u/thehav0k/"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthehav0k%2Fthehav0k%2Foutput%2Fbadge-leetcode-rating.json&cacheSeconds=3601" alt="LeetCode rating"/></a>
