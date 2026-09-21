@@ -31,7 +31,7 @@ I'm a CSE undergrad at **Jahangirnagar University** who builds across the whole 
   </tr>
 </table>
 
-🎓 CSE @ Jahangirnagar University &nbsp;·&nbsp; 📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🏁 Hackathons: **BUP CSE Fest 2026**, **ICT Fest**
+🎓 CSE @ Jahangirnagar University &nbsp;·&nbsp; 📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🏁 Hackathons: **BUP CSE Fest 2026**, **IUT ICT Fest**
 
 ---
 
