@@ -1,0 +1,54 @@
+name: Profile assets
+
+# Rebuilds the animated CP rating graphs, live CP badges and the
+# contribution snake, then publishes them to the `output` branch.
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # twice a day
+  workflow_dispatch:           # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      # Last good output, used as a fallback if a CP site is unreachable
+      - name: Fetch previous output
+        run: |
+          git clone --depth 1 --branch output \
+            "https://github.com/${{ github.repository }}.git" prev || mkdir -p prev
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build CP rating graphs and badges
+        run: python scripts/cp_graphs.py --out dist --prev prev
+
+      - name: Build contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=#bf91f3&color_dots=#1f2335,#2a3a66,#3d5a99,#5680d4,#70a5fd
+            dist/snake-light.svg?color_snake=#7c5cd6&color_dots=#ebedf0,#c6d8fa,#94b8f5,#6394ee,#3d6fd6
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
