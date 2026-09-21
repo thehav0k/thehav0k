@@ -36,6 +36,11 @@ jobs:
       - name: Build CP rating graphs and badges
         run: python scripts/cp_graphs.py --out dist --prev prev
 
+      - name: Build GitHub stats and top-languages cards
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: python scripts/github_stats.py --user thehav0k --out dist --prev prev
+
       - name: Build contribution snake
         uses: Platane/snk/svg-only@v3
         with:
