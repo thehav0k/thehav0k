@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="210" viewBox="0 0 480 210" role="img" aria-label="GitHub stats for thehav0k">
+<title>GitHub stats · thehav0k</title>
+<style>
+.fade{opacity:0;animation:fade .8s ease-out forwards}
+.rise{opacity:0;animation:rise .8s ease-out forwards}
+.bar{transform:scaleX(0);transform-origin:left;animation:grow 1.4s cubic-bezier(.45,.05,.35,1) forwards}
+.pct{opacity:0;animation:fade .5s ease-out forwards}
+@keyframes fade{to{opacity:1}}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+@keyframes grow{to{transform:scaleX(1)}}
+</style>
+<defs>
+<linearGradient id="gsl" x1="0" x2="1"><stop offset="0" stop-color="#70a5fd"/><stop offset="1" stop-color="#38bdae"/></linearGradient>
+<clipPath id="gsc"><rect width="480" height="210" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#gsc)"><rect width="480" height="210" fill="#1a1b27"/>
+<rect width="480" height="3" fill="url(#gsl)"/>
+<text class="rise" x="20" y="34" fill="#c0caf5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700">📊 GitHub Stats</text>
+<text class="rise" style="animation-delay:.05s" x="20" y="52" fill="#737aa2" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11.5">@thehav0k · public repos only</text>
+<g class="rise" style="animation-delay:0.15s"><text x="20.0" y="82" fill="#70a5fd" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700">★</text><text x="46.0" y="79" fill="#c0caf5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800">3</text><text x="46.0" y="95" fill="#737aa2" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10.5">Total Stars</text></g>
+<g class="rise" style="animation-delay:0.23s"><text x="240.0" y="82" fill="#70a5fd" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700">●</text><text x="266.0" y="79" fill="#c0caf5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800">641</text><text x="266.0" y="95" fill="#737aa2" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10.5">Total Commits</text></g>
+<g class="rise" style="animation-delay:0.31s"><text x="20.0" y="124" fill="#70a5fd" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700">⇄</text><text x="46.0" y="121" fill="#c0caf5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800">34</text><text x="46.0" y="137" fill="#737aa2" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10.5">Total PRs</text></g>
+<g class="rise" style="animation-delay:0.39s"><text x="240.0" y="124" fill="#70a5fd" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700">!</text><text x="266.0" y="121" fill="#c0caf5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800">1</text><text x="266.0" y="137" fill="#737aa2" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10.5">Total Issues</text></g>
+<g class="rise" style="animation-delay:0.47s"><text x="20.0" y="166" fill="#70a5fd" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700">▣</text><text x="46.0" y="163" fill="#c0caf5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800">28</text><text x="46.0" y="179" fill="#737aa2" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10.5">Public Repos</text></g>
+<g class="rise" style="animation-delay:0.55s"><text x="240.0" y="166" fill="#70a5fd" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="700">◕</text><text x="266.0" y="163" fill="#c0caf5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="800">23</text><text x="266.0" y="179" fill="#737aa2" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10.5">Followers</text></g>
+</g></svg>

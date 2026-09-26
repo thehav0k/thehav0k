@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="280" viewBox="0 0 430 280" role="img" aria-label="LeetCode rating history for thehav0k">
+<title>LeetCode rating history · thehav0k</title>
+<style>
+.fade{opacity:0;animation:fade .8s ease-out forwards}
+.rise{opacity:0;animation:rise .8s ease-out forwards}
+.line{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.4s cubic-bezier(.45,.05,.35,1) .4s forwards}
+.area{opacity:0;animation:fade 1.2s ease-out 1.8s forwards}
+.dot{opacity:0;animation:pop .4s ease-out forwards}
+.pulse{transform-box:fill-box;transform-origin:center;opacity:0;animation:pulse 2.2s ease-out 3s infinite}
+.peak{opacity:0;animation:rise .6s ease-out 2.8s forwards}
+@keyframes fade{to{opacity:1}}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes pop{from{opacity:0}to{opacity:1}}
+@keyframes pulse{0%{opacity:.9;transform:scale(1)}100%{opacity:0;transform:scale(3.4)}}
+</style>
+<defs>
+<linearGradient id="lel" x1="0" x2="1"><stop offset="0" stop-color="#ffa116"/><stop offset="1" stop-color="#f7768e"/></linearGradient>
+<linearGradient id="lea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffa116" stop-opacity=".35"/><stop offset="1" stop-color="#ffa116" stop-opacity="0"/></linearGradient>
+<clipPath id="lec"><rect x="0" y="0" width="430" height="280" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#lec)"><rect width="430" height="280" fill="#1a1b27"/>
+<rect width="430" height="3" fill="url(#lel)"/>
+<g class="rise" style="animation-delay:.05s"><g transform="translate(20 20) scale(1.1667)"><path d="M13.483 0a1.374 1.374 0 0 0-.961.438L7.116 6.226l-3.854 4.126a5.266 5.266 0 0 0-1.209 2.104 5.35 5.35 0 0 0-.125.513 5.527 5.527 0 0 0 .062 2.362 5.83 5.83 0 0 0 .349 1.017 5.938 5.938 0 0 0 1.271 1.818l4.277 4.193.039.038c2.248 2.165 5.852 2.133 8.063-.074l2.396-2.392c.54-.54.54-1.414.003-1.955a1.378 1.378 0 0 0-1.951-.003l-2.396 2.392a3.021 3.021 0 0 1-4.205.038l-.02-.019-4.276-4.193c-.652-.64-.972-1.469-.948-2.263a2.68 2.68 0 0 1 .066-.523 2.545 2.545 0 0 1 .619-1.164L9.13 8.114c1.058-1.134 3.204-1.27 4.43-.278l3.501 2.831c.593.48 1.461.387 1.94-.207a1.384 1.384 0 0 0-.207-1.943l-3.5-2.831c-.8-.647-1.766-1.045-2.774-1.202l2.015-2.158A1.384 1.384 0 0 0 13.483 0zm-2.866 12.815a1.38 1.38 0 0 0-1.38 1.382 1.38 1.38 0 0 0 1.38 1.382H20.79a1.38 1.38 0 0 0 1.38-1.382 1.38 1.38 0 0 0-1.38-1.382z" fill="#ffa116"/></g><text x="58" y="36" fill="#c0caf5" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700">LeetCode</text>
+<text x="58" y="55" fill="#737aa2" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12">@thehav0k · 1 rated contest</text></g>
+<g class="rise" style="animation-delay:.25s" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" text-anchor="end"><text x="410" y="40" fill="#ffa116" font-size="26" font-weight="800">1642</text><text x="410" y="58" fill="#737aa2" font-size="11.5"><tspan fill="#737aa2">Top 19.3%</tspan> · max <tspan fill="#f7768e" font-weight="700">1642</tspan></text></g>
+<g class="fade" style="animation-delay:.1s" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#737aa2">
+<line x1="52" x2="408" y1="246.0" y2="246.0" stroke="#2a2e42" stroke-width="1"/>
+<text x="44" y="249.5" text-anchor="end">1500</text>
+<line x1="52" x2="408" y1="191.3" y2="191.3" stroke="#2a2e42" stroke-width="1"/>
+<text x="44" y="194.8" text-anchor="end">1600</text>
+<line x1="52" x2="408" y1="136.7" y2="136.7" stroke="#2a2e42" stroke-width="1"/>
+<text x="44" y="140.2" text-anchor="end">1700</text>
+<line x1="52" x2="408" y1="82.0" y2="82.0" stroke="#2a2e42" stroke-width="1"/>
+<text x="44" y="85.5" text-anchor="end">1800</text>
+<text x="68.6" y="266" text-anchor="middle">Feb '26</text>
+<text x="400.8" y="266" text-anchor="middle">Mar '26</text>
+</g>
+<path class="area" d="M230.0 168.4 L230.0 246 L230.0 246 Z" fill="url(#lea)"/>
+<path class="line" pathLength="1" d="M230.0 168.4" fill="none" stroke="url(#lel)" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle class="dot" style="animation-delay:1.60s" cx="230.0" cy="168.4" r="2.6" fill="#1a1b27" stroke="#ffa116" stroke-width="1.8"><title>Biweekly Contest 176 — 1642</title></circle>
+<g class="peak"><circle cx="230.0" cy="168.4" r="4.4" fill="#f7768e"/><text x="230.0" y="158.4" text-anchor="middle" fill="#f7768e" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700">▲ 1642</text></g>
+<circle class="pulse" cx="230.0" cy="168.4" r="3.6" fill="none" stroke="#ffa116" stroke-width="1.6"/>
+<circle class="dot" style="animation-delay:2.8s" cx="230.0" cy="168.4" r="3.6" fill="#ffa116"/>
+</g></svg>
