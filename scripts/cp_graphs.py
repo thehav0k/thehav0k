@@ -6,6 +6,8 @@ Codeforces, LeetCode and CodeChef.
 Outputs (in --out):
   cf-rating.svg, leetcode-rating.svg, codechef-rating.svg   animated graphs
   badge-*.json                                              shields.io endpoint badges
+                                                            (badge-<site>-summary.json is the
+                                                            one-line badge the README shows)
   data/*.json                                               cached raw data
 
 If a platform can't be reached, the last good data from --prev is reused,
@@ -397,7 +399,7 @@ def render(platform, handle, d, w, h):
 # ── shields.io endpoint badges ───────────────────────────────────────────────
 def badge_json(label, message, color, logo=None):
     b = {"schemaVersion": 1, "label": label, "message": str(message), "color": color.lstrip("#"),
-         "labelColor": "1a1b27", "style": "for-the-badge"}
+         "labelColor": "1a1b27", "style": "flat-square"}
     if logo:
         b.update({"namedLogo": logo, "logoColor": "white"})
     return b
@@ -419,7 +421,32 @@ def badges_for(platform, d):
         out["max"] = badge_json("Max Rating", msg, col, platform)
     if d.get("solved") is not None:
         out["solved"] = badge_json(f"{NAMES[platform]} Solved", f"{d['solved']}+", "70a5fd", platform)
+    out["summary"] = summary_badge(platform, d)
     return out
+
+
+# Solved counts shown on the one-line summary badge
+SUMMARY_SOLVED = {"codeforces", "leetcode"}
+
+
+def summary_badge(platform, d):
+    """Everything about one site on one small badge, e.g.
+    Codeforces | 1566 (Specialist) · max 1696 (Expert) · 512 solved"""
+    tiers = CF_TIERS if platform == "codeforces" else CC_TIERS if platform == "codechef" else None
+    cur, mx = d.get("current"), d.get("max")
+    if cur is None:
+        return badge_json(NAMES[platform], "unrated", "565f89", platform)
+
+    def rated(r, title):
+        return f"{r} ({title})" if title else str(r)
+
+    parts = [rated(cur, d.get("title"))]
+    if mx is not None and mx > cur:
+        parts.append("max " + rated(mx, d.get("max_title")))
+    if platform in SUMMARY_SOLVED and d.get("solved") is not None:
+        parts.append(f"{d['solved']} solved")
+    color = tier(tiers, cur)[2] if tiers else "ffa116"
+    return badge_json(NAMES[platform], " · ".join(parts), color, platform)
 
 
 # ── main ─────────────────────────────────────────────────────────────────────
